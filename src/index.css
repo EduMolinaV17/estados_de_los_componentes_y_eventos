@@ -1,0 +1,25 @@
+:root {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  background: rgb(112, 255, 84);
+  background: linear-gradient(56deg, rgb(141, 255, 118) 0%, rgb(149, 244, 35) 100%);
+}
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 520px;
+  min-height: 90vh;
+  border-radius: 20px;
+  background-color: white;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
